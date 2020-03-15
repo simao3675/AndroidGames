@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GAME</string>
+    <string name="prompt_title">和電腦猜拳</string>
+    <string name="prompt_com_play">電腦出拳:</string>
+    <string name="prompt_my_play">玩家出拳:</string>
+    <string name="myPlay">玩家玩</string>
+    <string name="comPlay">電腦玩</string>
+    <string name="win">贏:</string>
+    <string name="tie">平手:</string>
+    <string name="lose">輸:</string>
+    <string name="small_game">小遊戲</string>
+    <string name="prsPicture">猜拳圖片</string>
+    <string name="finalCode">終極密碼</string>
+    <string name="one">1</string>
+    <string name="tilde">~</string>
+    <string name="thounsand">1000</string>
+    <string name="inputNum">輸入數字</string>
+    <string name="keyboard_number">鍵盤數字</string>
+    <string name="BINGO">BINGO</string>
+    <string name="make_sure">確認</string>
+</resources>
