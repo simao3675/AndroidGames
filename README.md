@@ -1,4 +1,4 @@
-#AndroidGames
+# AndroidGames
 There are two games in this project.
 
 - Rock Paper Scissors
