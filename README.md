@@ -8,8 +8,10 @@ There are two games in this project.
 - [Android](app/release/app-release.apk)
 
 ### Screenshot
-Rock Paper Scissors:
+- Rock Paper Scissors:
+
 ![Rock Paper Scissors](Rock_Paper_Scissors.png)
 
-Guess the password:
+- Guess the password:
+
 ![Guess the password](Guess_the_password.png)
